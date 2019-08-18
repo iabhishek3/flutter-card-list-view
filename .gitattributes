@@ -1,2 +1,2 @@
-*.m linguist-language=Javascript
-*.h linguist-language=Javascript
+*.m linguist-language=dart
+*.h linguist-language=dart
