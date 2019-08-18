@@ -1,0 +1,1 @@
+const String APP_BAR_TITLE = "List View";
