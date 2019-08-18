@@ -40,10 +40,79 @@ var listview=ListView(children: <Widget>[
 
     print("taped");
   },),
-   ListTile(title: Text("Book2"),
-  leading: Icon(Icons.landscape),),
-   ListTile(title: Text("Book3"),
-  leading: Icon(Icons.landscape),)
+   ListTile(title: Text("Book1"),
+  subtitle: Text("Authour1"),
+  leading: Icon(Icons.landscape),
+  trailing: Icon(Icons.arrow_right),
+  onTap:(){
+
+    print("taped");
+  },),
+   ListTile(title: Text("Book1"),
+  subtitle: Text("Authour1"),
+  leading: Icon(Icons.landscape),
+  trailing: Icon(Icons.arrow_right),
+  onTap:(){
+
+    print("taped");
+  },),
+   ListTile(title: Text("Book1"),
+  subtitle: Text("Authour1"),
+  leading: Icon(Icons.landscape),
+  trailing: Icon(Icons.arrow_right),
+  onTap:(){
+
+    print("taped");
+  },),
+   ListTile(title: Text("Book1"),
+  subtitle: Text("Authour1"),
+  leading: Icon(Icons.landscape),
+  trailing: Icon(Icons.arrow_right),
+  onTap:(){
+
+    print("taped");
+  },),
+  ListTile(title: Text("Book1"),
+  subtitle: Text("Authour1"),
+  leading: Icon(Icons.landscape),
+  trailing: Icon(Icons.arrow_right),
+  onTap:(){
+
+    print("taped");
+  },),
+  ListTile(title: Text("Book1"),
+  subtitle: Text("Authour1"),
+  leading: Icon(Icons.landscape),
+  trailing: Icon(Icons.arrow_right),
+  onTap:(){
+
+    print("taped");
+  },),
+  ListTile(title: Text("Book1"),
+  subtitle: Text("Authour1"),
+  leading: Icon(Icons.landscape),
+  trailing: Icon(Icons.arrow_right),
+  onTap:(){
+
+    print("taped");
+  },),
+  ListTile(title: Text("Book1"),
+  subtitle: Text("Authour1"),
+  leading: Icon(Icons.landscape),
+  trailing: Icon(Icons.arrow_right),
+  onTap:(){
+
+    print("taped");
+  },),
+  ListTile(title: Text("Book1"),
+  subtitle: Text("Authour1"),
+  leading: Icon(Icons.landscape),
+  trailing: Icon(Icons.arrow_right),
+  onTap:(){
+
+    print("taped");
+  },),
+  
   ],);
 
 
